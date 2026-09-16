@@ -23,3 +23,5 @@ body{font-family:Arial,Helvetica,sans-serif;color:#111}
 .entry-text-only .entry-text{grid-column:1/-1}.project-period{font-style:normal;color:#333}
 
 .entry-actions{position:relative}.entry-actions>.resource-links{position:absolute;top:3px;left:0;margin:0;font-size:14px;line-height:1.75}.entry-actions>details{display:block}.entry-actions summary{margin-left:195px;font-size:14px;line-height:1.75}.entry-actions .expanded{width:100%;min-width:0}@media(max-width:380px){.entry-actions>.resource-links,.entry-actions summary{font-size:12px}.entry-actions summary{margin-left:167px}}
+
+.interface-figure>a{display:block;position:relative;overflow:hidden;aspect-ratio:1240/1299}.interface-figure>a>img{position:absolute;width:361.935%;max-width:none;height:auto;bottom:0;left:-12.097%}
